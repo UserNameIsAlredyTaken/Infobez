@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1d99e3-b8c7-4cf7-ac83-2d804b836c1c" name="Default Changelist" comment="" />
+    <list default="true" id="da1d99e3-b8c7-4cf7-ac83-2d804b836c1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDEA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Potok2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/out/production/IDEA/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/out/production/IDEA/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/out_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/out_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/res_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/res_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Potok2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Potok2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Potok2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Potok2/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Yeb406YLTCaqy2OgMKazQY8yaU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Potok2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -52,6 +69,8 @@
       <updated>1583305811520</updated>
       <workItem from="1583305814719" duration="9833000" />
       <workItem from="1583318314493" duration="151000" />
+      <workItem from="1584985703953" duration="451000" />
+      <workItem from="1585058349295" duration="1736000" />
     </task>
     <servers />
   </component>
@@ -59,10 +78,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583315065236">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584985800792">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583315065236" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584985800792" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1585058359460">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585058359460" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1583316348224">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

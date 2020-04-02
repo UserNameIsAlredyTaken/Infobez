@@ -41,7 +41,7 @@ public class Main {
         Gamma gamma = new Gamma(lrs1, lrs2, lrs3);
 
 
-        byte[] result = new byte[message.length];
+        byte[] result = new byte[message.length];// "nj `,jnf
         for (int i = 0; i < message.length; i++) {
             byte gm = gamma.GetNextByte();
             result[i] = (byte)(gm ^ message[i]);

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad5f64b6-0cd5-41cd-93ea-501fa91538e3" name="Default Changelist" comment="" />
+    <list default="true" id="ad5f64b6-0cd5-41cd-93ea-501fa91538e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bigram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDEA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bigram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bigram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/out/production/IDEA/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/out/production/IDEA/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/out_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/out_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/res_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/res_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDEA/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YwMql8fRpn39ppXsC5oS7BTC3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583849396038</updated>
       <workItem from="1583849399175" duration="1962000" />
+      <workItem from="1584986154549" duration="705000" />
+      <workItem from="1585058363911" duration="2605000" />
     </task>
     <servers />
   </component>
@@ -59,21 +79,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="266" key="GridCell.Tab.0.bottom" timestamp="1583851377002">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom" timestamp="1584986865347">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584986865347" />
     <state width="1493" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583851377002" />
-    <state width="1493" height="266" key="GridCell.Tab.0.center" timestamp="1583851377001">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="230" key="GridCell.Tab.0.center" timestamp="1584986865347">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584986865347" />
     <state width="1493" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583851377001" />
-    <state width="1493" height="266" key="GridCell.Tab.0.left" timestamp="1583851377001">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="230" key="GridCell.Tab.0.left" timestamp="1584986865347">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584986865347" />
     <state width="1493" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583851377001" />
-    <state width="1493" height="266" key="GridCell.Tab.0.right" timestamp="1583851377001">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right" timestamp="1584986865347">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584986865347" />
     <state width="1493" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583851377001" />
     <state width="1493" height="266" key="GridCell.Tab.1.bottom" timestamp="1583851377002">
       <screen x="0" y="0" width="1536" height="824" />
@@ -99,11 +123,6 @@
           <url>file://$PROJECT_DIR$/src/com/company/Gamma.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/LRS.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
